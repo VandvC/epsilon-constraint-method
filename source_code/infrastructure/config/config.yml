@@ -1,0 +1,10 @@
+random_access:
+    username: best_username
+    password: best_password
+    hostname: 127.0.0.1
+    port: 1234
+    database: best_database
+
+api:
+    port: 5000
+    host: 127.0.0.1

@@ -1,0 +1,27 @@
+name: my_project
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - ca-certificates=2020.12.5=ha878542_0
+  - certifi=2020.12.5=py38h578d9bd_1
+  - ld_impl_linux-64=2.33.1=h53a641e_7
+  - libedit=3.1.20191231=h14c3975_1
+  - libffi=3.3=he6710b0_2
+  - libgcc-ng=9.1.0=hdf63c60_0
+  - libstdcxx-ng=9.1.0=hdf63c60_0
+  - ncurses=6.2=he6710b0_1
+  - openssl=1.1.1i=h27cfd23_0
+  - pip=20.3.3=py38h06a4308_0
+  - python=3.8.5=h7579374_1
+  - python_abi=3.8=1_cp38
+  - readline=8.1=h27cfd23_0
+  - setuptools=49.6.0=py38h578d9bd_3
+  - sqlite=3.33.0=h62c20be_0
+  - tk=8.6.10=hbc83047_0
+  - wheel=0.36.2=pyhd3eb1b0_0
+  - xz=5.2.5=h7b6447c_0
+  - yaml=0.2.5=h516909a_0
+  - zlib=1.2.11=h7b6447c_3
+
